@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "tilt_the_ball"
